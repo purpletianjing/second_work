@@ -1,0 +1,317 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#top {
+	background-image: url(../images/sunset-resized.jpg);
+	width: 100%;
+	height: 800px;
+	position: relative;
+	opacity: 0.7;
+	background-size: 100% 100%;
+}
+
+#logo {
+	top:20px;
+	left: 100px;
+	position: absolute;
+	font-size: 30px;
+	color: white;
+}
+
+#more_info {
+	position: absolute;
+	top: 27px;
+	right: 25px;
+}
+
+#Exa1 li{
+	font-size: 12px;
+	display: inline;
+	margin-left: 18px;
+	margin-right: 18px;
+	visibility: none;
+	color: white;
+}
+
+#sign_up {
+	border: 1px solid #ffffff;
+}
+
+#search {
+	margin: 0 auto;
+	position: absolute;
+	top: 35%;
+	left: 40%;
+	text-align: center;
+}
+
+#tencent_1 {
+	color: white;
+}
+
+#tencent_2 {
+	color: white;
+	font-size: 12px;
+}
+
+#input_1 {
+	opacity: 0.5;
+	/*width: 250px;*/
+	height: 30px;
+	border: 0px;
+}
+
+#search_button {
+	background-color: #90ee90;
+	color: white;
+	border: 0px;
+	width: 70px;
+	height: 35px;
+}
+
+#center_top {
+	position: relative;
+	top:-35px;
+}
+
+#price {
+	position: absolute;
+	left: 18%;
+	border-collapse: collapse;
+}
+
+#price td {
+	border: 1px solid #f5f5f5;
+	height: 70px;
+	width: 170px;
+	background-color: white;
+	text-align: center;
+}
+
+.expression {
+	font-size: 12px;
+}
+
+#center {
+	position: relative;
+	background-color: 
+}
+
+#center_1_1{
+	position: absolute;
+	top: 115px;
+	left: 44%;
+	text-align: center;
+}
+
+#center_hr_1 {
+	position: absolute;
+	top:30px;
+	width: 35px;
+	left: 45px;
+}
+
+#number {
+	position: relative;
+	border-collapse: collapse;
+	left: 285px;
+	top: 200px;
+}
+
+.center_2_td_1 {
+	border: 1px solid #f5f5f5;
+	position: absolute;
+	border-radius: 50%;
+	width: 20px;
+	text-align: center;
+	background-color: white;
+	color: #adadad;
+}
+
+
+.center_2_hr_1 {
+	width: 220px;
+	margin-top: 10px
+}
+
+#center_2_2 {
+	position: relative;
+	border-collapse: collapse;
+	top: 250px;
+	left: 18%;
+}
+
+.big_item {
+	font-weight: bold;
+	color: #797979;
+}
+
+.introduction {
+	font-size: 12px;
+	color: #adadad;
+}
+
+#center_2_2 td {
+	position: relative;
+	width: 220px;
+	text-align: center;
+}
+
+#long_1 {
+	position: relative;
+	top: 400px;
+	border: 0;
+	background-color: #ededed;
+	height: 1px;
+}
+
+#center_2_1{
+	position: relative;
+	top: 500px;
+	text-align: center;
+}
+
+#center_hr_2 {
+	position: absolute;
+	top:30px;
+	width: 35px;
+	left: 500px;
+}
+
+#center_3_1 {
+	position: absolute;
+	top: 1150px;
+	left: 38%
+}
+
+#center_3_2 {
+	position: absolute;
+	top: 1250px;
+	width: 820px;
+	text-align: center;
+	left: 13%;	
+	color: #adadad;
+}
+
+#table_1 {
+	position: relative;
+	top:550px;
+	left: 100px;
+}
+
+.td_2 {
+	width: 325px;
+	text-align: center;
+}
+
+.center_2_2_word {
+	font-size: 12px;
+	color: #adadad;
+}
+
+.td_3 {
+	width: 150px;
+	text-align: center;
+}
+
+.td_4 {
+	width: 325px;
+	text-align: center;
+}
+
+#center_hr_3 {
+	position: relative;
+	top: 600px;
+	border: 0;
+	background-color: #ededed;
+	height: 1px;
+}
+
+#center_3_1 input {
+	text-align: center;
+	height: 35px;
+}
+
+#donte {
+	font-size: 40px;
+	color: #adadad;
+}
+
+#input_1 {
+	background-color: #6c7b8b;
+	width: 130px;
+	height: 35px;
+	border: 1px solid #636363;
+	color: #fff;
+}
+
+#table_2 {
+	position: relative;
+	top:950px;
+	left: 25%;
+}
+
+#table_2 td {
+	width: 170px;
+	border-radius: 0.5;
+}
+.table_2_img {
+	width: 100px;
+	height: 100px;
+	-webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+}
+
+#bottom {
+	background: url(../images/sunset-resized.jpg);
+	position: relative;
+	top:1000px;
+	height: 400px;
+	text-align: center;
+	background-size: 100% 80%;
+	background-repeat: no-repeat;
+	color: white;
+	opacity: 0.8;
+}
+
+#search_2 {
+	margin: 0 auto;
+	position: absolute;
+	top: 35%;
+	left: 30%;
+}
+
+#input_2 {
+	background-color: white;
+	width: 250px;
+	height: 30px;
+	border: 0px;
+	color: #e4e4e4;
+}
+
+#button_2 {
+	background-color: #90ee90;
+	color: white;
+	border: 0px;
+	width: 50px;
+
+	height: 30px;
+}
+
+#bottom_table {
+	position: relative;
+	top: 950px;
+	color: #c4c4c4;
+	font-size: 10px;
+	left:14%; 
+}
+
+#bottom_table td {
+	width: 60px;
+}
